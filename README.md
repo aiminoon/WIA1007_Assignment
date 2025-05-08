@@ -6,7 +6,7 @@ This repository contains the group and individual assignment for the course WIA1
 ## Objective
 The main objectives of this assignment are:
 - To enhance students’ analytical skills through practical data handling.
-- To stimulate critical thinking and understanding of real-world predictive analytics.
+- To stimulate critical thinking and understanding of real world predictive analytics.
 - To apply data science workflows including data cleaning, transformation, visualization, and model training.
 
 ---
@@ -14,7 +14,7 @@ The main objectives of this assignment are:
 ## Background and Requirement
 
 ### Problem Statement
-Our team was tasked with building a predictive model for **credit risk assessment** based on a dataset containing information about individuals' financial status and loan applications. The final deliverable is a data science notebook that demonstrates a complete end-to-end pipeline—from raw data to predictive insight.
+Our team was tasked with building a predictive model for **credit risk assessment** based on a dataset containing information about individuals' financial status and loan applications. The final deliverable is a data science notebook that demonstrates a complete end to end pipeline, from raw data to predictive insight.
 
 ### Minimal Requirements
 The project must include the following:
@@ -22,7 +22,7 @@ The project must include the following:
 - A cleaned and preprocessed dataset.
 - Descriptive and visual analysis of data.
 - Feature engineering and normalization.
-- Machine learning model implementation (CatBoostClassifier).
+- Machine learning model implementation (CatBoostClassifier, LGBMClassifier, RandomForestClassifier, XGBClassifier, StackingClassifier).
 - Evaluation using accuracy, precision, recall, F1-score, and ROC-AUC.
 
 ### Additional Features
